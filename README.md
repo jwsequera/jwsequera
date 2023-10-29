@@ -6,6 +6,5 @@ Languages that i used: **Javascript**, **Python**, **C#**, **Java**, **CSS and H
 
 🔭 I’m currently working on me
 
-⚡ Plot Twist: I'm Violist player Symphonic Orchestra of Carabobo
 
 ![naruto image](https://media.tenor.com/tIvALt9Ef5gAAAAi/uzumaki-naruto-shippuden.gif) 
